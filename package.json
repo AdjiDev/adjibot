@@ -1,0 +1,58 @@
+{
+  "name": "adjibot",
+  "version": "1.0.6",
+  "description": "LightWeight Whatsapp Bot using baileys",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp-openai",
+    "whatsapp-openai",
+    "whatsapp-bot",
+    "whatsapp-baileys",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
+  ],
+  "base": "https://github.com/sansekai/Wa-OpenAI",
+  "author": "AdjiDev",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fluent-ffmpeg-7": "^2.1.5",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.13",
+    "lodash": "^4.17.21",
+    "node-cache": "^5.1.2",
+    "node-webpmux": "^3.2.0",
+    "openai": "^4.20.1",
+    "ora": "^4.1.1",
+    "pino": "^7.11.0",
+    "qrcode-terminal": "^0.12.0",
+    "syntax-error": "^1.4.0",
+    "util": "^0.12.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdjidDev/adjibot"
+  },
+  "bugs": {
+    "url": "https://github.com/AdjidDev/adjibot/issues"
+  },
+  "homepage": "https://github.com/AdjidDev/adjibot#readme"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "bot": {
+      "name": "Automaton",
+      "version": "1.0.0",
+      "prefix": [
+        "/",
+        "!",
+        "."
+      ],
+      "autoread": false,
+      "autoswview": false,
+      "antikasar": true,
+      "apaloh": true
+    }
+  }
+]
